@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @TenchiniM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Maycon Tenchini
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me (https://www.linkedin.com/in/maycon-tenchini/)
 
-<!---
-TenchiniM/TenchiniM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
