@@ -5,11 +5,7 @@
 
 
 
- <div>
-  <a href="https://github.com/tenchiniM">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=tenchiniM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenchiniM&layout=compact&langs_count=16&theme=dark"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenchiniM)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="Maycon-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
