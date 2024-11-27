@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maycon Tenchini
-- 👀 I’m interested in Java and C#
-- 🌱 I’m currently learning Java and PHP
+- 👀 I’m interested in Java, C# and NodeJS
+- 🌱 I’m currently learning Java and NodeJs
 - 📫 How to reach me (https://www.linkedin.com/in/maycon-tenchini/)
 
 
