@@ -20,6 +20,7 @@
   <img align="center" alt="Maycon-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maycon-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maycon-PHP" height="60" width="60" src="https://www.php.net/images/logos/php-logo.svg">
+  <img align="center" alt="Maycon-PHP" height="60" width="60" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40afserali.b%2F10-best-practices-to-secure-your-node-js-application-in-production-74f045b8001c&psig=AOvVaw3pH9HBk0q9qA1vwybUbmol&ust=1732799974871000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDXhJ_N_IkDFQAAAAAdAAAAABAE">
   
   
 </div>
