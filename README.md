@@ -17,7 +17,6 @@
   <img align="center" alt="Maycon-MYSQL" height="60" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Maycon-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maycon-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maycon-PHP" height="60" width="60" src="https://www.php.net/images/logos/php-logo.svg">
   <img align="center" alt="Maycon-PHP" height="60" width="60" src=" ">
   
   
